@@ -1,0 +1,27 @@
+const collaborationdata = [
+    {
+        name:'i-Hub IIT Roorkee',
+        photo:'https://tih.iitr.ac.in/assets/img/logo.png',
+        uri:'https://tih.iitr.ac.in/'
+    },
+    {
+        name:'IHFC IIT Delhi',
+        photo:'https://home.iitd.ac.in/public/storage/uploads/IHFC-CISCE_1652784462.jpg',
+        uri:'https://www.ihfc.co.in/',
+    },
+    {
+        name:'The Robotics Society',
+        photo:'https://rs-india.org/TRS/wp-content/uploads/2018/10/RSI_logo.png',
+        uri:'https://rs-india.org/'
+    },{
+        name:'Ministry of MSME',
+        photo:'https://msme.gov.in/sites/all/themes/msme/images/logo.png',
+        uri:'https://msme.gov.in/'
+    },{
+        name:'CoE AMT IIT Kharagpur',
+        photo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VaBQeOAzSMYoPRVL6OB_HrtksYOBemEqBw&s',
+        uri:'https://coeamt.iitkgp.ac.in/index.html'
+    },
+]
+
+export default collaborationdata;
